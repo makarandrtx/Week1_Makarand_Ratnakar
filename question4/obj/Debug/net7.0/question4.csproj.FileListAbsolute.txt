@@ -1,0 +1,14 @@
+D:\Programming\CentraLogic\Week1\assignments_week1\question4\bin\Debug\net7.0\question4.exe
+D:\Programming\CentraLogic\Week1\assignments_week1\question4\bin\Debug\net7.0\question4.deps.json
+D:\Programming\CentraLogic\Week1\assignments_week1\question4\bin\Debug\net7.0\question4.runtimeconfig.json
+D:\Programming\CentraLogic\Week1\assignments_week1\question4\bin\Debug\net7.0\question4.dll
+D:\Programming\CentraLogic\Week1\assignments_week1\question4\bin\Debug\net7.0\question4.pdb
+D:\Programming\CentraLogic\Week1\assignments_week1\question4\obj\Debug\net7.0\question4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\CentraLogic\Week1\assignments_week1\question4\obj\Debug\net7.0\question4.AssemblyInfoInputs.cache
+D:\Programming\CentraLogic\Week1\assignments_week1\question4\obj\Debug\net7.0\question4.AssemblyInfo.cs
+D:\Programming\CentraLogic\Week1\assignments_week1\question4\obj\Debug\net7.0\question4.csproj.CoreCompileInputs.cache
+D:\Programming\CentraLogic\Week1\assignments_week1\question4\obj\Debug\net7.0\question4.dll
+D:\Programming\CentraLogic\Week1\assignments_week1\question4\obj\Debug\net7.0\refint\question4.dll
+D:\Programming\CentraLogic\Week1\assignments_week1\question4\obj\Debug\net7.0\question4.pdb
+D:\Programming\CentraLogic\Week1\assignments_week1\question4\obj\Debug\net7.0\question4.genruntimeconfig.cache
+D:\Programming\CentraLogic\Week1\assignments_week1\question4\obj\Debug\net7.0\ref\question4.dll
